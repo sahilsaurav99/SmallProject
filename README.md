@@ -8,3 +8,6 @@ RULES or How to PLAY :
 5. If you guessed wrong you lost the bet money
 6. You can continue to the next round.
 6. If you want to quit the game just choose 0.
+
+
+I've just started learning new things, You can suggest some crazy changes.
